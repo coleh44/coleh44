@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coleh44
 - 👀 I’m interested in all things CS!
-- 🌱 I’m currently learning front-end web design
-- 📫 How to reach me colehaynes44@gmail.com
+- 🌱 I’m currently learning data structures.
+- 📫 How to reach me cole.haynes@yale.edu
 
 <!---
 coleh44/coleh44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
