@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coleh44
 - 👀 I’m interested in all things CS!
-- 🌱 I’m currently learning data structures.
+- 🌱 I’m currently learning systems programming.
 - 📫 How to reach me cole.haynes@yale.edu
 
 <!---
